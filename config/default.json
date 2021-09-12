@@ -1,0 +1,4 @@
+{
+   "mongoURI": "mongodb+srv://tomiwa:tomiwa@cluster0.xwfyb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+   "jwtSecret": "sl_myJwtSecret"
+}
